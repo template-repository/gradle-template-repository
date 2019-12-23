@@ -2,6 +2,7 @@
 Repository creates for fast running development process with configuration, which are the same from project to project.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/romankh3/respository-template/pulls)
+![](https://github.com/romankh3/gralge-repository-template/workflows/.github/workflows/gradle.yml/badge.svg)
 
 Added:
 *   Apache 2.0 license
